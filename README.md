@@ -63,24 +63,24 @@
   <h3><b>😄 Can Connect With Me On</b></h3>
   </div>
 <p align="center">
-<a href="https://www.leetcode.com/Ashish1101" target="_blank">
+<a href="https://www.leetcode.com/ashishskkumar321" target="_blank">
   <img align="center" alt="Ashish Shakya | Portfolio" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/leetcode.png" />
 </a> &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/Ashish1101/" target="_blank">
+<a href="https://www.linkedin.com/in/ashishshakya98/" target="_blank">
   <img align="center" alt="Gulshan Yadav | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://twitter.com/Ashish1101" target="_blank">
+<!-- <a href="https://twitter.com/Ashish1101" target="_blank">
   <img align="center" alt="Ashish Shakya R | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/Ashish1101/" target="_blank">
+</a> &nbsp;&nbsp; -->
+<a href="https://www.instagram.com/ashishshakya98/" target="_blank">
   <img align="center" alt="Ashish Shakya | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
 </a> &nbsp;&nbsp;
 <a href="mailto:ashishskkumar321@gmail.com" target="_blank">
   <img align="center" alt="Ashish Shakya | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://drive.google.com/file/d/1c6BS_cJqW9JwrqOfVH-3DgqkzeyZ9NXA/view">
+<!-- <a href="https://drive.google.com/file/d/1c6BS_cJqW9JwrqOfVH-3DgqkzeyZ9NXA/view">
     <img align="center" alt="Gulshan Yadav | Resume" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/resume.png" />
-</a> &nbsp;&nbsp;
+</a> &nbsp;&nbsp; -->
 <p>
   
 <br>
