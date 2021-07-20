@@ -1,5 +1,4 @@
-### Hi there, I'm Ashish Shakya <img src="https://github.com/gulshanyadav01/Ashish1101/blob/master/Assets/Hi.gif" width="22px">
-
+### Hi there, I'm Ashish Shakya
 ---
 
 <br />
