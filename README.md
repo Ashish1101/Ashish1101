@@ -25,8 +25,8 @@
 <img align="left" alt="C" width="26px" src="https://github.com/Ashish1101/gulshanyadav01/blob/master/Assets/c.png" />
 <img align="left" alt="C++" width="26px" src="https://github.com/Ashish1101/gulshanyadav01/blob/master/Assets/c.svg" />
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/Ashish1101/Ashish1101/blob/master/Assets/visual-studio-code.png" />
-<img align="left" alt="Git" width="26px" src="https://github.com/Ashish1101/Ashish1101/blob/master/Assets/git-icon.svg" />
+<!-- <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/Ashish1101/Ashish1101/blob/master/Assets/visual-studio-code.png" />
+<img align="left" alt="Git" width="26px" src="https://github.com/Ashish1101/Ashish1101/blob/master/Assets/git-icon.svg" /> -->
 
 <br />
 <br />
