@@ -3,7 +3,7 @@
 
 <br />
 
-- 🌱 I’m currently learning DSA
+- 🌱 Senior Software Engineer (Progfin)
 - 👯 I’m looking to collaborate on Web Development Projects
 - 😄 Pronouns: He/Him
 <!-- - ⚡ Fun fact: I'm in confusion, can you help me to choose the color for the website design -->
