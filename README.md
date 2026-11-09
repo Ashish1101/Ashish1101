@@ -3,7 +3,7 @@
 
 <br />
 
-- 🌱 Senior Software Engineer (Progfin)
+- 🌱 Senior Software Engineer
 - 👯 I’m looking to collaborate on Web Development Projects
 - 😄 Pronouns: He/Him
 <!-- - ⚡ Fun fact: I'm in confusion, can you help me to choose the color for the website design -->
